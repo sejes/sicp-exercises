@@ -1,6 +1,7 @@
 ;-------------------------------------------------------------------------------
 
 ; Exercise 1.3
+
 ; Define a procedure that takes three numbers and returns the sum of the squares
 ; of the larger two.
 
